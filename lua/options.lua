@@ -13,3 +13,5 @@ vim.api.nvim_create_autocmd({ "VimLeave", "VimSuspend" }, {
     -- vim.api.nvim_out_write("\27[0 q")
   end,
 })
+
+o.guifont = "Maple Mono NF CN"
