@@ -6,7 +6,7 @@ local servers = {
   "clangd",
   "lua_ls",
   "pyright",
-  "rust-analyzer"
+  "rust_analyzer"
 }
 
 vim.lsp.enable(servers)
